@@ -1,0 +1,6 @@
+/.env
+/.venv
+/static
+backend/generator/test.py
+backend\dalle-3-xl-lora-v1.safetensors
+backend/dalle-3-xl-lora-v1.safetensors

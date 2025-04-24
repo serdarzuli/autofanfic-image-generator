@@ -1,0 +1,20 @@
+fastapi
+uvicorn
+requests
+streamlit
+moviepy==1.0.3
+Pillow==9.5.0
+python-multipart
+python-dotenv
+diffusers 
+transformers
+accelerate 
+safetensors 
+scipy
+tensorflow
+opencv-python
+torch==2.1.0+cu118
+torchvision==0.16.0+cu118
+torchaudio==2.1.0+cu118
+--extra-index-url https://download.pytorch.org/whl/cu118
+numpy==1.26.4
