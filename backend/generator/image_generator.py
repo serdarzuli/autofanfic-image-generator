@@ -1,6 +1,6 @@
 # backend/utils/image_utils.py
 
-from backend.generator.sd_client import generate_character_image
+from backend.generator.sd_client import generate_image
 import os
 
 def generate_images_from_characters(characters: list[str]) -> list[str]:
@@ -10,7 +10,7 @@ def generate_images_from_characters(characters: list[str]) -> list[str]:
         safe_name = character.lower().replace(" ", "_")
         save_path = os.path.join("static", "images", f"{safe_name}.png")
 
-        success = generate_character_image(character, save_path)
+        success = generate_image(character, save_path)
         if success:
             image_paths.append(save_path)
         else:
