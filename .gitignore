@@ -6,3 +6,7 @@ static/videos
 backend/generator/test.py
 backend\dalle-3-xl-lora-v1.safetensors
 backend/dalle-3-xl-lora-v1.safetensors
+backend/utils/__pycache__/file_handler.cpython-311.pyc
+backend/utils/__pycache__/
+.vscode/
+backend/utils/__pycache__/file_handler.cpython-311.pyc
