@@ -99,6 +99,7 @@ streamlit run streamlit_app.py
 ## 📷 Example Prompt
 
 > "Goku and Naruto floating above the clouds."
+<img width="345" alt="Screenshot 2025-04-28 163101" src="https://github.com/user-attachments/assets/97934696-b18a-4d97-a6ac-6b78d7425b1a" />
 
 ---
 
