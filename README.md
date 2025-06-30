@@ -121,7 +121,6 @@ Contributions are welcome! Please open an issue to discuss your ideas or submit 
 
 This project uses open-source tools such as:
 - [Stable Diffusion v1.5](https://huggingface.co/runwayml/stable-diffusion-v1-5) — Open license
-- CodeFormer (Face Restoration) — **Licensed under S-Lab License 1.0**
 
 ---
 
